@@ -1,7 +1,9 @@
 # Data-Cleaning
----
-Joe Stoffa - 
+
+Joe Stoffa
+
 Coursera's Johns Hopkins Getting and Cleaning Data Course
+
 10 July 2016
 ---
 
@@ -19,5 +21,5 @@ This markdown file provides a description of the variables from the tidy data se
 This file is outputted by run_analysis.r and includes a tidy data set of variables relating to the mean and standard deviations from the triaxial data.
 
 ###mean_data.csv
-This file contains 
+This file contains the means of the variables from the tidy data set (tidy_data.csv).
 
