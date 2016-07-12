@@ -1,6 +1,6 @@
 # Data-Cleaning
 ---
-Joe Stoffa
+Joe Stoffa - 
 Coursera's Johns Hopkins Getting and Cleaning Data Course
 10 July 2016
 ---
